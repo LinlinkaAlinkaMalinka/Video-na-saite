@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>HTML, CSS and JavaScript demo</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+  
+ <video scr="https://youtu.be/dZBY0YCc_ZY" controls></video>, 
+  
+  <div class="menu">
+  <img src="https://vikram-hegde.github.io/resources/images/menu.svg" alt="menu icon" />
+</div>
+<div class="hero"></div>
+
+<div class="content">
+  <div class="heading">
+    <h3>By Vogue</h3>
+    <p>
+      На сайте vogue.ru могут содержаться упоминания и ссылки на Facebook и Instagram, ресурсы принадлежащие компании Meta, деятельность которой запрещена в РФ. 
+    </p>
+  </div>
+</div>
+<div class="small-img small1"></div>
+<div class="small-img small2"></div>
+<div class="small-img small3"></div>
+<div class="readmore">
+  <img src="https://media.glamour.ru/photos/618bcd24f93bffb5a9027da7/master/w_1600%2Cc_limit/GettyImages-1053150134.jpg" alt="" />
+</div>
+<div class="social">
+  <img src="https://vikram-hegde.github.io/resources/images/instagram.svg" alt="" />
+  <img src="https://vikram-hegde.github.io/resources/images/facebook.svg" alt="" />
+  <img src="https://vikram-hegde.github.io/resources/images/twitter.svg" alt="" />
+</div>
+
+</body>
+</html>
